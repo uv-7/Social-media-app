@@ -1,0 +1,7 @@
+https://github.com/CSFrequency/react-firebase-hooks ---> FOR PREDEFINED FIREBASE HOOKS
+
+https://www.react-hook-form.com/ ---> FOR FORM-HANDLING
+
+npm install react-textarea-autosize  ---> Auto resize of textarea rather than scrolling text area
+
+https://www.npmjs.com/package/date-fns ---> for formating how date is shown
